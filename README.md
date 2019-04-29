@@ -1,4 +1,4 @@
-# JSEvaluator
+# JSEvaluator (Opensource project)
 
 Javascript Runtime Evaluator
 
